@@ -1,0 +1,30 @@
+Class 1 - Desenvolvimento básico
+  Superset do JavaScript, open source, develop by Microsoft. Today the people can use TypeScript to see
+  the errors before to execute the code, because of typing for some variable. Number, String, etc.
+  How the works TypeScript?
+    The browser can`t run TypeScript, so begin the develop, it necessary to tranpilate the code to JS code.
+  How works prototipe?
+    In Js the objects are created by functions or constructors, and prototype are equal as a model, when we
+    are created an object, are inherited all the structure of prototype. The diffs of TS vs JS are used the
+    typing to the same structure.
+
+  Benefits:
+    - Static typing 
+      -> helps to avoid conflits and programming errors since the begin of development.
+    - Validation in time of execution
+      -> At the moment of tranpiler, TypeScript validate all the code, and in error case, it inform the file
+         and the line that are ocorring the problem.
+
+  links: https://www.linkedin.com/pulse/primeiros-passos-com-typescript-thiago-adriano/?originalSubdomain=pt
+
+  Learn More
+    1. Static typing:
+      It could capacity to define variables, params function, retorns of function as static, that helps to 
+      avoid errors during the development.
+    2. Best framework of development:
+      It provide recourses with Autocomplete, detected errors in real time, suggest code.
+    3. Greater scalability:
+      As the projects growing, TypeScript turns natural because the static typing. It's turn easier to keep
+      the clean and extends the code.
+    4. Facility in refactor:
+      
