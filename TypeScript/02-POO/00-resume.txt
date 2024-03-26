@@ -1,0 +1,19 @@
+Class 2 - Object oriented programming OOP
+  Programming paradigms:
+    Programming paradigms represents an organizational structure and set of principles
+    that orient the software development. This approach defines not only the sintaxe,
+    but also the way to organize and interact with the code.
+
+    Exists several paradigms types, the most commons is:
+      - IMPERATIVES:
+        . Procedural -> The code is organized as an list of instructions that the machine
+        needs to do sequecialy.
+        . Oriented Objects -> The advantage code is the modularity of code and the capacity
+        to represents the objects how the real life is. It's a paradigm partuculity usefull
+        when much developers work together in one project.
+      - DECLARATIVES: 
+        . Functional -> Base of pure math functions 
+        . Logic -> Permits the description of chracteristics desired of a problem, and let
+        the machine in charge to find the solution.
+    
+
