@@ -1,0 +1,12 @@
+Class 3 - Interfaces & Generics
+  Interface:
+    Interface is like a contract of rules that who sign must to follow the contract. Pulling to real life, when
+    someone are playing videogames, and click at the button control 'X' to jump inside the game. Without the game, the control
+    continue existing the button 'X', but if click, any action won't do. Interface can be the control of a console and
+    the class could used to be created by game to do the actions that every button must to do. However, each class has the 
+    libertity to implements these methods of ways its better.
+  Abstract classes: 
+    Must to be a class that could be used for much instance.
+
+  Generics:
+    Its a generic way to typing an atributte keeping the security. 
