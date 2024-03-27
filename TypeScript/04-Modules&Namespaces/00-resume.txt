@@ -1,0 +1,9 @@
+Class 4 - Modules & Namespaces
+  Module: 
+    It's a file with one function that could be one class of functions about this class.
+    It could be export a function, const, or something in on file to use at other file like
+    export const resume;
+    import { resume } from '00-resume.txt'
+  
+  Namespaces: 
+    Encapsulate to organize class and functions
