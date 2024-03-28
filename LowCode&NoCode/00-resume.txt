@@ -1,0 +1,18 @@
+Low-Code & No-Code:
+  High-Code: 
+    At begin of computer needed to code descripting every little pixel to machine understand that action
+      - Assembly
+      - C#
+      - Java
+      - JavaScript
+  Low-Code: 
+    At the pass of the time, was creating librarys and frameworks to abstract to decrese much codes.
+      - Bubble
+      - WeWeb
+      - FlutterFlow
+      - Xano: backend
+      - Supabase: backend
+  No-Code:
+    Was created to optimized the developer time to develop an application in a way that is more visual
+  2024:
+    According by Gartner's relatory, 65% of softwares in the world will be develops with low and no code.
